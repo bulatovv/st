@@ -10,3 +10,5 @@
 + scrollback - **alt-j/k** or **mouse** *(alt-u/d for page up/down)*
 + copy/paste - **alt-c/v**
 ## Fonts
++ [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
++ Symbola
