@@ -3,4 +3,5 @@ st
 *.tar.xz
 *.diff
 *.orig
+*.rej
 

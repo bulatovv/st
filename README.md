@@ -2,13 +2,16 @@
 
 ## Patches
 + [alpha](https://st.suckless.org/patches/alpha/)
++ [dracula](https://st.suckless.org/patches/dracula/)
 + [font2](https://st.suckless.org/patches/font2/)
 + [ligatures](https://st.suckless.org/patches/ligatures/)
 + [scrollback+mouse+altscreen](https://st.suckless.org/patches/scrollback/)
+
 ## Bindings
 + change font size - **alt-h/l**
 + scrollback - **alt-j/k** or **mouse** *(alt-u/d for page up/down)*
 + copy/paste - **alt-c/v**
+
 ## Fonts
 + [FiraCode Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
 + Symbola
